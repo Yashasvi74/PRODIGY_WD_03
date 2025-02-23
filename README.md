@@ -18,7 +18,7 @@ This Repository is about a fully responsive Tic_Tac_Toe Web application game wit
 ## Tech Stack
 🛠 **HTML | CSS | JavaScript**  
 
-🔗 **[Live Demo](#)** 
+🔗 **[Live Demo](#)** https://yashasvi74.github.io/PRODIGY_WD_03/
 
 🔗 
 ![image](https://github.com/user-attachments/assets/ee2a13a9-8edf-4f82-b080-8a3829012ada)
