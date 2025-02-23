@@ -8,14 +8,14 @@ This Repository is about a fully responsive Tic_Tac_Toe Web application game wit
 -✅ Player vs Player – Play with a friend on the same device.
 -🤖 Player vs AI – Challenge an unbeatable AI using the Minimax algorithm.
 
-**Features**
+###**Features**
 -🎨 Modern UI with a dark theme(two style sheets are included in the repo)
 -📱 Responsive Design for mobile and desktop
 -🤖 Unbeatable AI using Minimax
 -🔄 Restart Game anytime
 -🎮 Two Modes: Player vs Player & Player vs AI
 
-**Tech Stack**
+###**Tech Stack**
 🛠 HTML | CSS | JavaScript
 
 🔗 
